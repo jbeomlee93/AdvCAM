@@ -10,8 +10,7 @@ The implementation of Anti-Adversarially Manipulated Attributions for Weakly and
 # Installation
 
 - We kindly refer to the offical implementation of [IRN](https://github.com/jiwoon-ahn/irn).
-- This repository is tested on Ubuntu 18.04, with Python 3.6, PyTorch 1.0.1, Torchvision 0.2.2, CUDA 9.0, and 1x NVIDIA TITAN X GPU.
-
+- This repository is tested on Ubuntu 18.04, with Python 3.6, PyTorch 1.4, pydensecrf, scipy, chaniercv, imageio, and opencv-python.
 ## Usage
 
 #### Step 1. Prepare Dataset
